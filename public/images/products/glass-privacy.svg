@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"><defs><radialGradient id="gs110" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#000" stop-opacity="0.22"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient><linearGradient id="scr108" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0e13" stop-opacity="1"/><stop offset="0.5" stop-color="#1d2530" stop-opacity="1"/><stop offset="1" stop-color="#05070a" stop-opacity="1"/></linearGradient><radialGradient id="glw109" cx="0.3" cy="0.2" r="0.6"><stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient></defs><ellipse cx="200" cy="370" rx="100" ry="14" fill="url(#gs110)"/><g transform="translate(124 28) scale(.84)">
+<rect x="0" y="0" width="200" height="400" rx="36" fill="#3a3e45"/>
+<rect x="2" y="2" width="196" height="396" rx="34" fill="#050607"/>
+<rect x="9" y="9" width="182" height="382" rx="28" fill="url(#scr108)"/>
+<rect x="9" y="9" width="182" height="382" rx="28" fill="url(#glw109)"/>
+<rect x="72" y="20" width="56" height="16" rx="8" fill="#000"/>
+<path d="M9 140 Q100 190 191 120 L191 260 Q100 320 9 250Z" fill="#fff" opacity=".06"/></g></svg>
